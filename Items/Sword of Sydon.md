@@ -2,4 +2,4 @@
 
 | Name                       | Trait   | Range | Damage   | Burden     | Feature                                                                         |
 | -------------------------- | ------- | ----- | -------- | ---------- | ------------------------------------------------------------------------------- |
-| Improved<br><br>Broadsword | Agility | Melee | d8+3 phy | One-Handed | Sydon's Fury: You may **Mark a Stress** to deal an additional d8 of mag damage. |
+| Lesser Sword of Sydon | Agility | Melee | d8+3 phy | One-Handed | Sydon's Fury: You may **Mark a Stress** to deal an additional d8 of mag damage. |
