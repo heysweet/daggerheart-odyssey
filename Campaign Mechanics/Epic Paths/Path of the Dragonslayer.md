@@ -1,0 +1,9 @@
+The dragon responsible for the tragedy that destroyed the Dragonslayer’s childhood home is the gold dragon known as Helios.
+***Meeting the Oracle.*** Versi tells the Dragonslayer that they are destined to become the bane of evil dragons. They must seek out the Forgekeeper in the Mithral Mines to learn more about the artifacts they need.
+***The Mithral Forge.*** The Forgekeeper will give the
+Dragonslayer their lesser magic item. The Forgekeeper says that the Dragonslayer must obtain a weapon powerful enough to fight a dragon. The gygans of Yonder supposedly forged such weapons in the First War.
+***Consulting the Fates.*** The Fates reveal that the Dragonslayer should seek the wisdom of the Sun God under the constellation of [[The Chariot]]. He will help the Dragonslayer find the revenge that they seek.
+***The Forbidden Library.*** The Dragonslayer’s greater magic item can be found in the possession of Chondrus on the Island of Yonder. He will offer it willingly if the players agree to his bargain.
+***Confronting Helios.*** If the Dragonslayer arrives at the Garden of Helios, the Sun God will focus all of his attention on them. During dinner with Helios the Sun God will reveal that he has been waiting for the Dragonslayer’s arrival for a long time. The Fates told him that he would be killed by someone in the Dragonslayer’s family/town/tribe, so he rained fire down upon their home long ago. Once Helios assumes his dragon form, he attempts to devour the Dragonslayer. Confronting Talieus. In the Great Arena at the Tower of Sydon, Talieus and his audience will focus their ridicule on the Dragonslayer, and the dragons will prioritize attacking the Dragonslayer.
+# Divine Boon
+If the Dragonslayer is ever killed, they will be visited by Morta (the night hag) from the Island of the Fates. She will raise the Dragonslayer from the dead and reveal that their fate is not to die here. This can only happen once.

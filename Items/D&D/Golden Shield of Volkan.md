@@ -1,0 +1,5 @@
+*Shield, very rare (requires attunement)*
+
+This golden shield has a lion engraved on its front, and three times per day the user can use a bonus action to cast the spell thunderwave. The spell will be accompanied by the mighty roar of a lion and the lion carving will animate.
+The severed head of any medium or smaller creature can be attached to the front of the shield by wedging it in the lion’s teeth. The user can spend an action to activate this head and will gain the benefit of one of the creature’s traits for five rounds. Spellcasting of any kind will not work. This ability can only be used once per day. 
+Once used, the head disintegrates into ash. While holding this shield, the user has advantage on initiative rolls and Wisdom (Perception) checks. In addition, while holding this shield the user can also understand and speak the Draconic tongue.

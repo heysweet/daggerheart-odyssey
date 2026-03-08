@@ -1,0 +1,3 @@
+*Weapon (scythe), legendary (requires attunement)*
+
+Attacks made with this weapon have a +1 bonus to attack and damage rolls. If critical hit is scored against a creature that has fewer than 100 hit points, it must make a DC15 Constitution saving throw or be slain instantly; constructs and the undead are immune to this effect. When a creature is slain in this manner, the user feels a surge of dark pleasure that entices them to become evil. On the second and subsequent slaying the user must make a DC15 Charisma saving throw or their alignment changes to evil. Affiliation to Law or Chaos is unchanged. Only a wish spell can undo this alignment change.

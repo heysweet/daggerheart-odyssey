@@ -1,0 +1,4 @@
+*Wondrous item, very rare (requires attunement)*
+
+These apples are wrought from solid gold, and are so beautiful that they inspire immense greed in anyone who sees them. On a turn, the owner of a golden apple may use an action to throw it. Everyone within a 30-foot radius of where the apple lands must make a DC 18 Wisdom saving throw. On a failure, they must use their next turn to move toward the apple and attempt to take it for themselves. This saving throw is repeated on each turn if no one has possession of the apple. No other activities are possible while wanting the golden apple.
+Once a creature has taken possession of the apple, they will spend the next day jealously guarding it. Weaker creatures, such as bandits or goatlings, may attempt to run away and hide it from others.

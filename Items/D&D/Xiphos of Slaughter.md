@@ -1,0 +1,6 @@
+*Weapon (dagger), very rare (requires attunement)*
+
+Centuries ago, the Dragonlord Estor Arkelander defeated a gygan smith in single combat and forced the cyclops into his service. He demanded that the cyclops forge him a weapon that would drench all the shores of Thylea in blood. The gygan complied, crafting this bronze dagger. Estor anointed the weapon by slaughtering the smith and his family. The weapon is stained deep red.
+You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+_**Cursed.**_ This dagger is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the dagger, keep- ing it within reach at all times. You also have disadvan- tage on attack rolls with weapons other than this one.
+At the beginning of your turn in combat, you must use your actions to attack the nearest creature at least once. If you have multiple possible targets, you attack one at random. At the end of your turn in combat, if you did not inflict damage on any creature this turn, you suffer 1d10 psychic damage.

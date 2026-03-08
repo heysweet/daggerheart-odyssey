@@ -1,0 +1,13 @@
+The curse that afflicts the Cursed One’s family originates on Typhon Island. Only by going to the island and diving into its central vortex can the Cursed One end the curse.
+
+***Meeting the Oracle.*** Versi tells the Cursed One that they must speak with Damon, the ancient lich who guards the Necropolis at Telamok, to learn more about the nature of their curse.
+***Meeting Damon.*** Damon knew the Cursed One’s ancestor. He says that the curse is unlike any other in Thylea, and that it was devised by Sydon and Lutheria. He says that the Cursed One must seek out the Lotus Witch on Scorpion Island. She will know how to break the curse. Damon gives the Cursed One a lost family heirloom—a [[Gem of Brightness]].
+***Meeting the Lotus Witch.*** The Lotus Witch reveals that the magic of the curse originates on Typhon island. Only by going there and diving into its volcanic heart will the Cursed One be granted their wish. But to do so they must possess a magic item powerful enough to protect against a fiery death.
+***The Greater Artifact.*** The Lotus Witch will only give the Cursed One the artifact that they need if they are able to answer enough of her riddles. Otherwise the Cursed One must kill the Lotus Witch.
+***Typhon Island.*** When the Cursed One reaches Typhon Island, they can leap into the volcanic core. If they have the artifact from the Lotus Witch, they will appear on the ash plains of Hades unharmed. There the Cursed One will find an old man (NE commoner) guarded by a cerberus hound.
+***The Cursed Ancestor.*** The old man is the Cursed One’s ancestor, and the curse was his fault. He disrespected the Titans, and this was his punishment. The cerberus says that killing the old man is the only way to end the curse. The old man does not defend himself.
+***Ending the Curse.*** If the Cursed One kills their ancestor, the cerberus devours the corpse, and all curses on all of the Cursed One’s family members come to an end. The Cursed One awakens back on Typhon Island.
+***Killing the Titans.*** If both Sydon and Lutheria are killed, then the curse is lifted and the Cursed One's ancestor is released from Hades. Their gem of brightness is also fully recharged. However, this solution is never offered or explained—it must be discovered.
+
+# Divine Boon
+If the Cursed One is ever killed, Damon will teleport in and destroy any remaining enemies. The lich will then hand a raise dead scroll to one of the Cursed One’s companions before leaving. This can only happen once.

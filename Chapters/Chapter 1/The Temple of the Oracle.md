@@ -1,0 +1,1 @@
+Defeating Braeca, you find a [[Sword of Sydon]]
