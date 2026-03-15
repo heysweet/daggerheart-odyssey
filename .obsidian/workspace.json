@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Sword of Sydon.md",
+                "file": "Items/5. Legendary/Luck Blade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sword of Sydon"
+              "title": "Luck Blade"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Sword of Sydon.md",
+                "file": "Items/5. Legendary/Luck Blade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sword of Sydon"
+              "title": "Backlinks for Luck Blade"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Sword of Sydon.md",
+                "file": "Items/5. Legendary/Luck Blade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sword of Sydon"
+              "title": "Outgoing links from Luck Blade"
             }
           },
           {
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Sword of Sydon.md",
+                "file": "Items/5. Legendary/Luck Blade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sword of Sydon"
+              "title": "Outline of Luck Blade"
             }
           }
         ]
@@ -242,12 +242,26 @@
   },
   "active": "2f4366b3b7d36d72",
   "lastOpenFiles": [
+    "Items/5. Legendary/Lutheria's Palimpsest.md",
+    "Items/5. Legendary/Luck Blade.md",
+    "Items/2. Uncommon/Lesser Staff of Sydon.md",
+    "Items/4. Very Rare",
+    "Items/2. Uncommon/Silvered Spear.md",
+    "Items/AA Item Inspirations.md",
+    "Items/Untitled.md",
+    "Items/2. Uncommon",
+    "Items/1. Common",
+    "Items/1. Common/Amazon War Paint.md",
+    "Items/3. Rare/Calliope's Laurel.md",
+    "Items/3. Rare",
+    "Items/5. Legendary",
+    "Classes/Classes.md",
+    "Campaign Mechanics/Epic Paths/index.md",
+    "Classes",
     "Untitled.md",
-    "Items/Sword of Sydon.md",
     "Chapters/Chapter 1/The Temple of the Oracle.md",
     "Welcome.md",
     "Story Overview.md",
-    "Items/Silvered Spear.md",
     "Chapters/Chapter 1/The Great Boar.md",
     "Chapters",
     "Chapters/Chapter 1",
@@ -261,21 +275,7 @@
     "Spells/D&D/New Spells.md",
     "Campaign Mechanics/Converting From D&D.md",
     "Spells/D&D/New Spells/Animal Polymorph.md",
-    "Spells/D&D/New Spells/Bond of the Dragonlords.md",
-    "Spells/D&D/New Spells/Seeds of Death.md",
-    "Spells/D&D/New Spells/Theogenesis.md",
-    "Spells/D&D/New Spells/Sword of Fate.md",
-    "Spells/D&D/New Spells/Fatebinding.md",
-    "Spells/D&D/New Spells/Dirge of the Dragonlords.md",
-    "Spells/D&D/New Spells/Sleeping Draught.md",
-    "Items/D&D/Golden Shield of Volkan.md",
     "Spells/D&D/New Spells",
-    "Campaign Mechanics/The Dragonlords.md",
-    "Spells/D&D",
-    "Spells",
-    "Items/D&D",
-    "Items",
-    "Campaign Mechanics/Epic Paths",
-    "Campaign Mechanics"
+    "Spells/D&D"
   ]
 }

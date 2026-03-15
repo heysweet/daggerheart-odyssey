@@ -1,1 +1,1 @@
-Defeating Braeca, you find a [[Sword of Sydon]]
+Defeating Braeca, you find a [[Lesser Staff of Sydon]]
