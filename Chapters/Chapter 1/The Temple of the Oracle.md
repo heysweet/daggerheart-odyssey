@@ -1,1 +1,0 @@
-Defeating Braeca, you find a [[Lesser Staff of Sydon]]
