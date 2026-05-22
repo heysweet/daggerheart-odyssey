@@ -1,4 +1,0 @@
-*Wondrous item, legendary (requires attunement)*
-
-Magical darkness spreads from the helmet when it is worn and fills a 15-foot-radius sphere; the darkness will even spread around corners. A creature with darkvision can’t see through the Helm’s darkness, and nonmagical light will not pierce it. The magical darkness is not dispelled by light from magical effects. The Helm’s wearer on the other hand, has darkvision to a range of 60 feet. This darkvision is not affected by darkness from the helmet or another source.
-Completely covering the helmet with something opaque blocks the darkness: think of the darkness as “negative light”.
