@@ -55,30 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Chapter 1/The Temple of the Oracle.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Temple of the Oracle"
-            }
-          },
-          {
-            "id": "70a012a6e31cfd9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/DM Training/DM Like Brennan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DM Like Brennan"
+              "title": "index"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "540a357f79091d2f",
@@ -90,15 +76,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Session Prep Format.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Prep Format"
+              "title": "index"
+            }
+          },
+          {
+            "id": "fe27493995908ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "4e9edbc78d3d022f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "5df9a19d749d0392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/Factions/DM Warriors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DM Warriors"
+            }
+          },
+          {
+            "id": "0418728936f77faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/Factions/Five Gods/DM Volkan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DM Volkan"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/DM Training/DM Like Brennan.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +224,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DM Like Brennan"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -261,8 +304,29 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "70a012a6e31cfd9d",
+  "active": "5f91be15feb48741",
   "lastOpenFiles": [
+    "private/Factions/DM Satyrs.md",
+    "Factions/Satyrs.md",
+    "private/Factions/DM Warriors.md",
+    "Factions",
+    "private/Factions/DM Scholars or Philosophers.md",
+    "private/Factions/DM Priests.md",
+    "private/Factions/DM Families.md",
+    "private/Resources/One Shot/One Pager.md",
+    "private/Factions/Five Gods/DM Volkan.md",
+    "private/Factions/Five Gods/DM Vallus.md",
+    "private/Factions/Five Gods/DM Narsus.md",
+    "private/Factions/Five Gods/DM Pythor.md",
+    "private/Factions/Five Gods/DM Kyrah.md",
+    "private/Factions/DM Druids, Centaurs.md",
+    "index.md",
+    "Locations/Thylea/index.md",
+    "Locations/Thylea",
+    "Locations",
+    "private/Resources/One Shot/One Shot.md",
+    "private/Session Prep Format.md",
+    "private/DM Training/DM Like Brennan.md",
     "Resources/One Shot/One Shot.md",
     "private/Themes/Themes.md",
     "private/Themes/Stages of Grief.md",
@@ -272,33 +336,12 @@
     "private/Spells/D&D/New Spells/Animal Polymorph.md",
     "private/Spells/D&D/New Spells/Sleeping Draught.md",
     "private/Spells/D&D/New Spells/Seeds of Death.md",
-    "private/Spells/D&D/New Spells/Fatebinding.md",
-    "private/Spells/D&D/New Spells/Dirge of the Dragonlords.md",
-    "private/Spells/D&D/New Spells/Bond of the Dragonlords.md",
-    "private/Spells/D&D/Wish.md",
-    "private/Spells/D&D/New Spells.md",
     "private/Spells/D&D/New Spells",
     "private/Spells/D&D",
     "private/Spells",
-    "private/Species and Cultures/index.md",
     "private/Species and Cultures",
-    "private/Resources/One Shot/img.md",
-    "private/Resources/One Shot/Ultros Crew.md",
-    "private/Resources/One Shot/One Shot.md",
-    "private/Resources/One Shot/One Pager.md",
-    "private/Resources/One Shot/NPCs.md",
-    "private/Resources/One Shot/Characters.md",
     "private/Resources/One Shot",
     "private/Resources/Estor's Conquest - One Shot.pdf",
-    "private/Resources",
-    "private/Player Characters/private/DM Thalassa.md",
-    "private/Player Characters/private/DM Kallista.md",
-    "private/Player Characters/private/DM Lyra.md",
-    "private/Player Characters/private/DM Evandros.md",
-    "private/Player Characters/private/DM Asterios.md",
-    "private/Player Characters/private",
-    "private/Player Characters/Thalassa or Thalassos, Voice of the Drowned Storm.md",
-    "private/Player Characters",
     "quartz/static/og-image.png",
     "quartz/static/icon.png",
     "Untitled.canvas"

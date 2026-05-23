@@ -1,11 +1,8 @@
 ---
 title: Odyssey of the Dragonlords
 ---
-
 # Odyssey of the Dragonlords
 
-A Daggerheart campaign wiki.
+[[Locations/Thylea/index|Thylea]] is a small continent surrounded by sea. The [[natives]] of Thylea are [[centaurs]], [[cyclopes]], [[nymphs]], [[Satyrs]], [[DM Satyrs]], [[faery|faeries]], [[siren|sirens]], [[fungril]], [[galapa]], [[simiah]], [[ribbit|ribbits]]
 
-Public pages will appear here as they are written. Content lives in the
-vault root; private notes live under `private/` and are excluded from
-this site.
+
